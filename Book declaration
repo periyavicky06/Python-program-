@@ -1,3 +1,4 @@
+
 book_title = input("Enter the book title: ")
 author = input("Enter the author name: ")
 price = float(input("Enter the price of the book: "))
